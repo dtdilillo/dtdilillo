@@ -1,5 +1,5 @@
 # David Di Lillo  
-**Program Manager | NYC DOE | Automation & Compliance Tools**
+**Program Manager | NYCDOE | Automation & Compliance Tools**
 
 > **10+ years managing $1.5M+ programs, streamlining workflows, and delivering technical solutions.**
 
