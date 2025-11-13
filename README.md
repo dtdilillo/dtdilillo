@@ -1,16 +1,33 @@
-## Hi there 👋
+# David Di Lillo  
+**Program Manager | NYC DOE | Automation & Compliance Tools**
 
-<!--
-**dtdilillo/dtdilillo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> **10+ years managing $1.5M+ programs, streamlining workflows, and delivering technical solutions.**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### **Projects**
+
+| Repo | Description | Impact |
+|------|-------------|--------|
+| [`policy-documentation`](https://github.com/dtdilillo/policy-documentation) | AI-assisted LaTeX SOPs & FAQs | Cut inquiry time **75%** |
+| [`gas-per-session-automation`](https://github.com/dtdilillo/gas-per-session-automation) | Google Apps Script for job posting automation | Reduced processing from **25 min → 3 min** |
+
+---
+
+### **Skills**
+- **Program Management**: $1.5M grants, 900+ postings, cross-functional teams  
+- **Automation**: Google Apps Script, LaTeX (Overleaf), AI-prompted tools  
+- **Data**: Tableau, SPSS, VS Code, PowerShell  
+- **Compliance**: Regulatory protocols, 15-year impact reports  
+
+---
+
+### **Education**
+- **M.Ed. in STEAM** – University of San Diego, 2021  
+- **B.S. in Mathematics** – College of Staten Island (CUNY), 2010  
+
+---
+
+### **Connect**
+- [linkedin.com/in/daviddilillo](https://linkedin.com/in/daviddilillo)  
+- dtdilillo@gmail.com | Brooklyn, NY
