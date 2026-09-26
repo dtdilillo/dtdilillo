@@ -42,7 +42,3 @@ Power Apps · SharePoint · Power Automate · Excel / VBA · SQL · Tableau · G
 - B.S., Mathematics — College of Staten Island (CUNY), 2010
 
 Earlier: Borough Arts Coordinator, NYC DOE (2015–2019); research assistant, NYS Institute for Basic Research / OPWDD (2012–2013).
-
----
-
-[LinkedIn](https://linkedin.com/in/daviddilillo) · Brooklyn, NY
