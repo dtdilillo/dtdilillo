@@ -2,17 +2,17 @@
 
 **Education Officer Level II (Program Manager)** · NYC Public Schools · Brooklyn, NY
 
-I run extra-duty hiring operations for a central office: policy, compliance, intake, and the systems that keep a posting from request through public listing. Most of the work is unglamorous municipal process. The public repos below are the parts that can be shown without exposing a live tenant.
+I design and run the central extra-duty hiring operation for NYC Public Schools: policy, compliance, intake systems, and the full path from a posting request to a public listing. The repositories below are the parts of that work that can be published without exposing a live tenant.
 
 ---
 
-### What I actually do
+### Work
 
 - Own the central per-session job-posting lifecycle end to end (intake, review, packet, public board).
-- Write and maintain the operating manuals and FAQs that staff use for that process.
+- Write and maintain the operating manuals and FAQs that offices use to run that process.
 - Build the supporting stack in Power Apps, SharePoint, Power Automate, Excel/SQL, and Google Apps Script.
-- Administer a multi-year grant portfolio (including a $1.5M award) and run a high-volume interview cycle (200+ a year).
-- Cut inbound policy questions by redesigning the comms and reference set around that posting process (~75% fewer inquiries on that channel).
+- Administer a multi-year grant portfolio, including a $1.5M award, and run a high-volume interview cycle (200+ a year).
+- Cut inbound policy questions by redesigning the communications and reference set for that posting process (~75% fewer inquiries on that channel).
 
 Civil service: passed NYC Administrative Education Officer Exam #6502 (List #76).
 
