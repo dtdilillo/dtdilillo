@@ -22,11 +22,11 @@ Civil service: passed NYC Administrative Education Officer Exam #6502 (List #76)
 
 | Repo | What it is |
 |------|------------|
-| [power-platform-system-documentation-kit](https://github.com/dtdilillo/power-platform-system-documentation-kit) | Method for documenting a Power Apps + SharePoint + Power Automate system without publishing tenant internals |
+| [power-platform-system-documentation-kit](https://github.com/dtdilillo/power-platform-system-documentation-kit) | Redacted Power Apps, SharePoint list specs, and Power Automate flow for the posting pipeline |
 | [nycps-per-session-policy-documentation](https://github.com/dtdilillo/nycps-per-session-policy-documentation) | LaTeX sources for SOPMs and FAQs (contacts and compiled live manuals omitted) |
 | [gas-per-session-job-posting-intake-automation](https://github.com/dtdilillo/gas-per-session-job-posting-intake-automation) | Google Apps Script intake form and packet generation (live Drive IDs omitted) |
 
-Live agency systems stay off GitHub. These repos are the method and the redacted sources.
+Live agency systems stay off GitHub. These repos are redacted sources and sample code.
 
 ---
 
