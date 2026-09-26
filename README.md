@@ -1,33 +1,34 @@
-# David Di Lillo  
-**Program Manager | NYCDOE | Automation & Compliance Tools**
-
-> **10+ years managing $1.5M+ programs, streamlining workflows, and delivering technical solutions.**
+# David Di Lillo
+**Program Manager | NYCDOE | Automation, Compliance, and Process Optimization**
 
 ---
 
-### **Projects**
+### Projects
 
-| Repo | Description | Impact |
-|------|-------------|--------|
-| [`policy-documentation`](https://github.com/dtdilillo/policy-documentation) | AI-assisted LaTeX SOPs & FAQs | Cut inquiry time **75%** |
-| [`gas-per-session-automation`](https://github.com/dtdilillo/gas-per-session-automation) | Google Apps Script for job posting automation | Reduced processing from **25 min → 3 min** |
-
----
-
-### **Skills**
-- **Program Management**: $1.5M grants, 900+ postings, cross-functional teams  
-- **Automation**: Google Apps Script, LaTeX (Overleaf), AI-prompted tools  
-- **Data**: Tableau, SPSS, VS Code, PowerShell  
-- **Compliance**: Regulatory protocols, 15-year impact reports  
+| Repo | Description |
+|------|-------------|
+| [`power-platform-system-documentation-kit`](https://github.com/dtdilillo/power-platform-system-documentation-kit) | Evidence-bounded method for documenting Power Apps, SharePoint, and Power Automate systems without publishing tenant internals |
+| [`nycps-per-session-policy-documentation`](https://github.com/dtdilillo/nycps-per-session-policy-documentation) | AI-assisted LaTeX SOPMs and FAQs |
+| [`gas-per-session-job-posting-intake-automation`](https://github.com/dtdilillo/gas-per-session-job-posting-intake-automation) | Google Apps Script intake and posting-workflow automation |
 
 ---
 
-### **Education**
-- **M.Ed. in STEAM** – University of San Diego, 2021  
-- **B.S. in Mathematics** – College of Staten Island (CUNY), 2010  
+### Skills
+- **Program management**: grants, posting lifecycles, cross-functional operations
+- **Power Platform**: Power Apps, SharePoint lists, Power Automate
+- **Documentation**: LaTeX / Overleaf, evidence-bounded system references
+- **Automation**: Google Apps Script, AI-assisted authoring
+- **Data**: Tableau, Excel, SQL
 
 ---
 
-### **Connect**
-- [linkedin.com/in/daviddilillo](https://linkedin.com/in/daviddilillo)  
-- dtdilillo@gmail.com | Brooklyn, NY
+### Education
+- **M.Ed. in STEAM** – University of San Diego, 2021
+- **B.S. in Mathematics** – College of Staten Island (CUNY), 2010
+
+---
+
+### Connect
+- [linkedin.com/in/daviddilillo](https://linkedin.com/in/daviddilillo)
+- [github.com/dtdilillo](https://github.com/dtdilillo)
+- Brooklyn, NY
