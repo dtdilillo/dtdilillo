@@ -1,18 +1,18 @@
 # David Di Lillo
 
-**Program Manager** · NYC Public Schools · Brooklyn, NY
+**Program Manager** · Public Sector Operations · Brooklyn, NY
 
-I design and run the central extra-duty hiring operation for NYC Public Schools: policy, compliance, intake systems, and the full path from a posting request to a public listing. The repositories below are the parts of that work that can be published without exposing a live tenant.
+I design and operate high-volume hiring and process workflows for a large public education system: policy frameworks, compliance controls, intake systems, and the end-to-end path from request to public posting. The repositories below contain redacted, genericized samples of that work.
 
 ---
 
 ### Work
 
-- Own the central per-session job-posting lifecycle end to end (intake, review, packet, public board).
-- Write and maintain the operating manuals and FAQs that offices use to run that process.
-- Build the supporting stack in Power Apps, SharePoint, Power Automate, Excel/SQL, and Google Apps Script.
-- Administer a multi-year grant portfolio, including a $1.5M award, and run a high-volume interview cycle (200+ a year).
-- Cut inbound policy questions by redesigning the communications and reference set for that posting process (~75% fewer inquiries on that channel).
+- Own the full lifecycle of extra-duty assignment postings (intake, review, packet generation, public board).
+- Author and maintain operating manuals, FAQs, and process documentation used by field offices.
+- Build supporting automation in Power Apps, SharePoint, Power Automate, Excel/SQL, and Google Apps Script.
+- Administer multi-year grant portfolios and run high-volume interview and selection cycles.
+- Reduce inbound policy inquiries through redesigned communications and self-service reference materials.
 
 ---
 
@@ -20,11 +20,11 @@ I design and run the central extra-duty hiring operation for NYC Public Schools:
 
 | Repo | What it is |
 |------|------------|
-| [power-platform-system-documentation-kit](https://github.com/dtdilillo/power-platform-system-documentation-kit) | Redacted Power Apps, SharePoint list specs, and Power Automate flow for the posting pipeline |
-| [nycps-per-session-policy-documentation](https://github.com/dtdilillo/nycps-per-session-policy-documentation) | LaTeX sources for SOPMs and FAQs (contacts and compiled live manuals omitted) |
-| [gas-per-session-job-posting-intake-automation](https://github.com/dtdilillo/gas-per-session-job-posting-intake-automation) | Google Apps Script intake form and packet generation (live Drive IDs omitted) |
+| [power-platform-system-documentation-kit](https://github.com/dtdilillo/power-platform-system-documentation-kit) | Redacted Power Apps, SharePoint list specs, and Power Automate flow for a posting pipeline |
+| [policy-documentation-suite](https://github.com/dtdilillo/nycps-per-session-policy-documentation) | LaTeX sources for sample SOP manuals and FAQs (genericized) |
+| [posting-intake-automation](https://github.com/dtdilillo/gas-per-session-job-posting-intake-automation) | Google Apps Script form builder and packet generation (placeholders only) |
 
-Live agency systems stay off GitHub. These repos are redacted sources and sample code.
+These are sanitized public samples. Live systems, contacts, and agency-specific content stay off GitHub.
 
 ---
 
@@ -39,4 +39,4 @@ Power Apps · SharePoint · Power Automate · Excel / VBA · SQL · Tableau · G
 - M.Ed., STEAM — University of San Diego, 2021
 - B.S., Mathematics — College of Staten Island (CUNY), 2010
 
-Earlier: Borough Arts Coordinator, NYC DOE (2015–2019); research assistant, NYS Institute for Basic Research / OPWDD (2012–2013).
+Earlier: Arts program coordination; research assistant (microscopy / mass spectrometry).
